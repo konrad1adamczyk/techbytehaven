@@ -1,7 +1,13 @@
+# Site settings
 title: "TechByte Haven"
-description: "Your daily dose of gadget news, reviews & comparisons."
+description: "Daily gadget reviews, hands-on tests & tech insights"
 author: "YourName"
 url: "https://techbytehaven.github.io"
 theme: minima
 plugins:
   - jekyll-feed
+
+# Enable pagination (optional)
+pagination:
+  enabled: true
+  per_page: 5
