@@ -1,0 +1,7 @@
+title: "TechByte Haven"
+description: "Your daily dose of gadget news, reviews & comparisons."
+author: "YourName"
+url: "https://techbytehaven.github.io"
+theme: minima
+plugins:
+  - jekyll-feed
